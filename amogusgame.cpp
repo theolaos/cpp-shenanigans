@@ -1,4 +1,5 @@
 // Created in Dcoder in Oct 15 2021
+// https://code.dcoder.tech/files/code/6118d1e09601c7065a914254/amogusgame?section=all
 
 #include <iostream>
 #include <ctime>
