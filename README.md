@@ -1,5 +1,5 @@
 ### C++ shenaningans
 
-Similar to the "turtle" repo that i have, this is also an accumalation of cpp projects that I worked on in the past.
+Similar to the "turtle" repo that I have, this is also an accumulation of C++ projects that I worked on.
 
-These proejects were made in the period of late 2021 to mid 2022
+These projects were made in the period of late 2021 to mid 2022
